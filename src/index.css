@@ -1,7 +1,7 @@
 :root {
   --text-color: #ffffff;
-  --background-color: #f9fafb;
-  --card-bg: #ffffff;
+  --background-color: #4f4f4f;
+  --card-bg: #1d2841;
   --border-color: #e5e7eb;
   --primary-color: #2563eb;
   --primary-hover: #1d4ed8;
@@ -11,7 +11,7 @@
   --input-bg: #ffffff;
   --input-border: #d1d5db;
   --input-focus: #3b82f6;
-  --heading-color: #111827;
+  --heading-color: #ffffff;
   --table-hover: #f3f4f6;
 
   font-family: 'Inter', system-ui, sans-serif;
