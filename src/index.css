@@ -169,6 +169,16 @@ tr:hover {
   color: var(--danger-hover);
 }
 
+.description-column {
+  width: 512px; /* Adjust this value as needed */
+  min-width: 400px; /* Ensure a minimum width for smaller screens */
+}
+
+.address-column {
+  width: 256px; /* Adjust this value as needed */
+  min-width: 200px; /* Ensure a minimum width for smaller screens */
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --text-color: #f3f4f6;

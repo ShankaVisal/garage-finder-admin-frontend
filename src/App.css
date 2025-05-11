@@ -149,6 +149,11 @@ tr:hover {
   color: var(--danger-hover);
 }
 
+.description-column {
+  width: 40%; /* Adjust percentage as needed */
+  min-width: 400px; /* Ensure a minimum width */
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --text-color: #f3f4f6;
